@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome To Free O level notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here you can find Free O level notes
