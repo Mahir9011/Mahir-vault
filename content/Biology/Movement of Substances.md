@@ -1,3 +1,6 @@
+---
+order: 2
+---
 ## 2.1 Types of Movement of Substances
 - **Diffusion**: Movement of particles from high to low concentration.
 - **Osmosis**: Movement of water from high water potential to low water potential through a semi-permeable membrane.

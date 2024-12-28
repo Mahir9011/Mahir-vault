@@ -1,3 +1,6 @@
+---
+order: 6
+---
 ## 6.1 Photosynthesis
 - **Equation**:
   - Word: $\text{Carbon dioxide + Water} \rightarrow \text{Glucose + Oxygen}$

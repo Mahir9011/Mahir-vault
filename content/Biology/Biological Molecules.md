@@ -1,15 +1,18 @@
+---
+order: 3
+---
 ## 3.1 Types of Biological Molecules
 - **Carbohydrates**: Energy source and storage.
 - **Proteins**: Growth, repair, enzymes.
 - **Lipids**: Energy storage, insulation.
 - **Nucleic Acids**: Store genetic information.
 
-| **Type**            | **Examples**             | **Function**                      |
-|---------------------|--------------------------|----------------------------------|
-| Carbohydrates       | Glucose, Starch, Glycogen | Energy storage, structure       |
-| Proteins            | Enzymes, Hemoglobin      | Growth, repair, enzymes         |
-| Lipids              | Fats, Oils               | Energy storage, insulation      |
-| Nucleic Acids       | DNA, RNA                 | Genetic information storage    |
+| **Type**      | **Examples**              | **Function**                |
+| ------------- | ------------------------- | --------------------------- |
+| Carbohydrates | Glucose, Starch, Glycogen | Energy storage, structure   |
+| Proteins      | Enzymes, Hemoglobin       | Growth, repair, enzymes     |
+| Lipids        | Fats, Oils                | Energy storage, insulation  |
+| Nucleic Acids | DNA, RNA                  | Genetic information storage |
 
 ## 3.2 Carbohydrates
 - **Monosaccharides**: Simple sugars (e.g., glucose).

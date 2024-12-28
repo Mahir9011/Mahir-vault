@@ -1,3 +1,6 @@
+---
+order: 12
+---
 ## 12.1 What is Coordination and Response?
 - **Coordination**: The process by which organisms respond to changes in their internal and external environments.
 - **Systems Involved**: Nervous and endocrine systems.

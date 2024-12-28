@@ -1,3 +1,6 @@
+---
+order: 16
+---
 ## 16.1 What is Variation?
 - **Definition**: Differences between individuals in a population.
 - **Types**:  

@@ -1,3 +1,6 @@
+---
+order: 15
+---
 ## 15.1 What is Inheritance?
 - **Definition**: Passing of traits from parents to offspring through genes.
 - **Genes**: Sequences of DNA that code for proteins.

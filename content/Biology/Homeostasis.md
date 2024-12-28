@@ -1,3 +1,6 @@
+---
+order: 11
+---
 ## 11.1 What is Homeostasis?
 - **Definition**: The regulation of internal conditions to maintain a stable environment.
 - **Importance**: Ensures optimal conditions for enzyme activity and cell function.

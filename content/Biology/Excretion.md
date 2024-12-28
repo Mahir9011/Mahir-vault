@@ -1,3 +1,6 @@
+---
+order: 10
+---
 ## 10.1 What is Excretion?
 - **Definition**: The process of removing waste products from the body.
 - **Waste Products**: Urea, Carbon Dioxide, Excess Water.

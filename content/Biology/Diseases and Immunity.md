@@ -1,3 +1,6 @@
+---
+order: 19
+---
 ## 19.1 Types of Diseases
 - **Infectious Diseases**: Caused by pathogens like bacteria, viruses, fungi, and parasites.
 - **Non-Infectious Diseases**: Caused by factors such as genetics, lifestyle, and environmental conditions (e.g., cancer, heart disease).

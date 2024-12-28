@@ -1,3 +1,6 @@
+---
+order: 20
+---
 ## 20.1 The Cell Cycle
 - The cell cycle is the series of events that take place in a cell leading to its division and replication.
   - **Interphase**: The cell grows, replicates DNA, and prepares for division.

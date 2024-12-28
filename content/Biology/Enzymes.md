@@ -1,3 +1,6 @@
+---
+order: 4
+---
 ## 4.1 What are Enzymes?
 - **Enzymes**: Biological catalysts made of proteins.
 - **Properties**:
